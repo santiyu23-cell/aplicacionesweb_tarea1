@@ -11,11 +11,7 @@ body{
     color: rgb(7, 7, 7);
     text-align: center;
 }
-#SeccionHoby{
-    background-color: var(--azul);
-    color: rgb(0, 0, 0);
-    text-align: center;
-}
+
 .boton{
     background-color: var(--boton);
     color: white;
@@ -33,17 +29,17 @@ body{
     padding: 10px;
 }
 .milogo{
-    width: 70px !important;
-    height: 70px !important;
+    width: 150px !important;
+    height: 150px !important;
     margin: 10px;
     padding: 10px;
     }
 .formulario{
     background-color: var(--azul);
-    color: white;
+    color: rgb(234, 21, 21);
     text-align: center;
     border-radius: 10px;
-    margin-top: 20%;
+    margin-top: 20px;
         padding: 10px;
     display: flex;
     flex-wap: wrap;
