@@ -1,19 +1,19 @@
 :root{
---azul:#3b5bdb;
---fondo:#7dd326;
---boton:#c11313;
+--azul:#b4bfea;
+--fondo:#77d5d8;
+--boton:#4a4fbc;
 }
 body{
     background-color: var(--fondo);
 }
 .DatosPersonales{
     background-color: var(--azul);
-    color: white;
+    color: rgb(7, 7, 7);
     text-align: center;
 }
 #SeccionHoby{
     background-color: var(--azul);
-    color: rgb(211, 9, 177);
+    color: rgb(0, 0, 0);
     text-align: center;
 }
 .boton{
@@ -33,8 +33,8 @@ body{
     padding: 10px;
 }
 .milogo{
-    width: 100px;
-    height: 100px;
+    width: 70px !important;
+    height: 70px !important;
     margin: 10px;
     padding: 10px;
     }
